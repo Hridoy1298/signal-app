@@ -1,0 +1,18 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+h1 {
+  color: #333;
+}
+
+#signal-container {
+  margin-top: 20px;
+  font-size: 24px;
+}
+
+#message {
+  margin-top: 15px;
+  color: green;
+}
